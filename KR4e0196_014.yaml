@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0196/krp/v1/juan/14
+seq: 14
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0196_WYG_014-1a, image: WYG1277/WYG1277-0867a.png}
+body:
+  text: 具茨遺藁目録論表䇿
+  hash: sha256:ab8b4fdd781332c9d57b771bec61a8e9130439ecea46e9a90b238e86583c868a
+metadata:
+  title: 具茨集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:25:09.658391'
+  juan_title: 遺藁目録
+  source:
+    repository: kanripo
+    path: KR4e0196/KR4e0196_014.txt
+hash: sha256:9b4cf3efdee6860f8f51cfef7057ab7a4626780177080c11d6119f6f272f6a62
