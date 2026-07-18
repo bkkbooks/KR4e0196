@@ -844,6 +844,7 @@ markers:
   - {type: line-break, offset: 2815, content: '', id: KR4e0196_WYG_003-10b05}
   - {type: substitution, offset: 2816, original: 麽, replacement: 麼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19531}}
   - {type: punctuation, offset: 2822, content: (, id: KR4e0196_krp_003-bkkpn1}
+  - {type: voice, offset: 2822, length: 19, name: note, id: n1}
   - {type: punctuation, offset: 2832, content: /, id: KR4e0196_krp_003-bkkpn2}
   - {type: punctuation, offset: 2841, content: ), id: KR4e0196_krp_003-bkkpn3}
   - {type: 'kr:newline', offset: 2841, content: '
@@ -984,6 +985,7 @@ markers:
   - {type: line-break, offset: 3281, content: '', id: KR4e0196_WYG_003-12a08}
   - {type: indent, offset: 3281, content: 　　, id: KR4e0196_krp_003-bkkind27}
   - {type: punctuation, offset: 3288, content: (, id: KR4e0196_krp_003-bkkpn4}
+  - {type: voice, offset: 3288, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 3290, content: /, id: KR4e0196_krp_003-bkkpn5}
   - {type: punctuation, offset: 3290, content: ), id: KR4e0196_krp_003-bkkpn6}
   - {type: 'kr:newline', offset: 3290, content: '
@@ -1201,6 +1203,7 @@ markers:
   - {type: line-break, offset: 3998, content: '', id: KR4e0196_WYG_003-15a01}
   - {type: indent, offset: 3998, content: 　　, id: KR4e0196_krp_003-bkkind33}
   - {type: punctuation, offset: 4001, content: (, id: KR4e0196_krp_003-bkkpn7}
+  - {type: voice, offset: 4001, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 4006, content: /, id: KR4e0196_krp_003-bkkpn8}
   - {type: punctuation, offset: 4006, content: ), id: KR4e0196_krp_003-bkkpn9}
   - {type: 'kr:newline', offset: 4006, content: '
@@ -1697,4 +1700,4 @@ markers:
 
       ', id: KR4e0196_krp_003-bkkkrnewl359}
   back: []
-hash: sha256:27a9cd768e8705aa1bccd123be6e3689dd5051553f3ec29e7a2ace9ba90258d1
+hash: sha256:4f91223297be1b54dde5b960cb8bb9c75e15c8ba8b8c5ee8927e18be14271be5
